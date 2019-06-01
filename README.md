@@ -19,7 +19,7 @@ Main features:
 <img src="http://g.recordit.co/9X4wusu1ye.gif" width=500 height=500/>
 
 ## Installation
-***Only works on MacOS due to library***<br/>
+***Only works on MacOS with provided library***<br/>
 To install simply type: <br/>
 `make`
 
