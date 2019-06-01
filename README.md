@@ -14,6 +14,7 @@ Main features:
 * 10 colors sets
 * Redefine julia fractals through mouse cursor ('L' key to activate)
 * Manually adjust number of iterations
+* Multithreaded
 
 <img src="http://g.recordit.co/DpJv4uwGql.gif" width=500 height=500/>
 <img src="http://g.recordit.co/9X4wusu1ye.gif" width=500 height=500/>
